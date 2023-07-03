@@ -1,4 +1,10 @@
 # FlameForecast
+**ABOUT PROJECT**
+
+Forest fires are a significant natural hazard that can have devastating impacts on ecosystems, communities, and economies. Indeed it is necessary to have some predictive model which predicts the likelihood of forest fires taking place in a particular area.
+
+Developed a predictive model that takes the dataset of a particular forest and based on the algorithm, learns from the dataset and detects future forest fires based on the attributes like temperature,wind, humidity etc.
+
 **ABOUT DATASET**
 
 I have taken the dataset of **Montesinho forest** which consist the information of their different location represented through x and y axis and various factors on which forest fire depends like **ffmc, temp, wind, dc,humidity** ,e.t.c and the **area** destructed due to forest fire.
